@@ -62,7 +62,7 @@ p {
   margin-bottom: 15px;
 }
 
-span {
+/*span {
   display: inline-block;
   font-size: 1em;
   line-height: 1em;
@@ -75,6 +75,10 @@ span {
 #two {
   margin-left: 420px;
   margin-top: 0%;
+}*/
+
+.cla {
+  display: inline-block;
 }
 
 img {
